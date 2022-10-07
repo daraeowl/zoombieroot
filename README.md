@@ -1,5 +1,5 @@
 # zoombieroot
-zoombie forum made with java scringboot / react / mysql / graddle
+zoombie forum made with java scpringboot / react / mysql / graddle
 
 1. Descargar proyecto
 2. Levantar backend
